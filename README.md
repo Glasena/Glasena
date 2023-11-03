@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My Name is Alison Glasenapp and i am a Back-End Developer with focus on PHP
+### i am a Back-End Developer with focus on PHP, always willing to improve !
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Glasena&show_icons=true&hide=prs,issues&theme=transparent)
