@@ -15,7 +15,7 @@ Personal project built with Laravel 12 and PostgreSQL to automate the extraction
 
 📈 **GitHub Stats**
 
-![Alison Glasenapp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glasenao&show_icons=true&theme=github_dark&hide_title=true)
+![Alison Glasenapp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glasena&show_icons=true&theme=github_dark&hide_title=true)
 
 ---
 
