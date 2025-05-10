@@ -6,7 +6,6 @@ I'm **Alison Glasenapp**, a backend developer from Brazil with a strong focus on
 - Backend development with Laravel and PHP
 - Work with relational databases (PostgreSQL, SQL Server, Oracle)
 - Develop personal projects to solve real-life problems
-- Currently expanding my skills through an IBM Fullstack Certification
 
 📌 **Featured Project**
 
