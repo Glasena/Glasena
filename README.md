@@ -10,7 +10,7 @@ Here are a couple of projects I'm proud of.
 
 <br>
 
-#### 🤖 [Philosophers Chatbot](https://github.com/seu-usuario/philosophers-chatbot)
+#### 🤖 [Philosophers Chatbot](https://github.com/Glasena/philosophers-chatbot)
 A full-stack AI application that allows users to chat with different philosophical personas (a Stoic and a Cynic). The entire environment is containerized with Docker, featuring a React frontend, a FastAPI (Python) backend, and a locally-run Llama 3 model with GPU acceleration via Ollama.
 
 *This project serves as a hands-on lab for learning and exploring LLM fine-tuning techniques.*
