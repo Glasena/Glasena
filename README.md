@@ -10,6 +10,16 @@ Here are a couple of projects I'm proud of.
 
 <br>
 
+#### 📄 [Chat with PDF](https://github.com/Glasena/chat-with-pdf).
+
+A full-stack application that implements a Retrieval-Augmented Generation (RAG) pipeline, allowing users to have contextual, in-depth conversations with their PDF documents. The project showcases a sophisticated, dual-model architecture using specialized LLMs for embedding and generation, served locally via Ollama.
+
+*This project was a deep dive into creating data-grounded AI systems, moving beyond simple prompting to build a tool with memory, configurable logic, and true contextual understanding.*
+
+`Tech Stack: React, FastAPI, Python, Docker, LangChain, Ollama, Llama 3, FAISS`
+
+<br>
+
 #### 🤖 [Philosophers Chatbot](https://github.com/Glasena/philosophers-chatbot)
 A full-stack AI application that allows users to chat with different philosophical personas (a Stoic and a Cynic). The entire environment is containerized with Docker, featuring a React frontend, a FastAPI (Python) backend, and a locally-run Llama 3 model with GPU acceleration via Ollama.
 
@@ -36,11 +46,12 @@ A personal project built with Laravel 12 and PostgreSQL to automate the extracti
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glasena&show_icons=true&theme=github_dark&hide_title=true" alt="Alison Glasenapp's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glasena&layout=compact&theme=github_dark&hide_title=true&langs_count=6" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Glasena&show_icons=true&theme=github_dark&hide_title=true" alt="Alison Glasenapp's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glasena&layout=compact&theme=github_dark&hide_title=true&langs_count=6" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ---
 
