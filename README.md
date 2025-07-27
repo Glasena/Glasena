@@ -8,6 +8,17 @@ I'm **Alison Glasenapp**, a backend developer from Brazil with a strong focus on
 
 Here are a couple of projects I'm proud of.
 
+
+<br>
+
+#### 👨🏻‍🔧 [Redmine AI](https://github.com/Glasena/redmine-ia).
+
+A comprehensive, multi-container application that integrates with the Redmine project management tool, allowing users to query project and issue data using natural language. The solution is powered by a RAG (Retrieval-Augmented Generation) pipeline using Google Gemini and LangChain.
+
+*This project was a practical exercise in systems integration and DevOps, focused on orchestrating a complex stack of services (API, application, multiple databases) with Docker Compose. The main challenge was building a reliable RAG pipeline from scratch and ensuring the entire environment, including its data, was portable and easy to reproduce, mimicking a real-world development scenario.*
+
+`Tech Stack: Python, Flask, LangChain, Google Gemini, Redmine, PostgreSQL, ChromaDB, Docker, Docker Compose`
+
 <br>
 
 #### 📄 [Chat with PDF](https://github.com/Glasena/chat-with-pdf).
