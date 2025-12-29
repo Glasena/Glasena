@@ -59,10 +59,20 @@ A personal project built with Laravel 12 and PostgreSQL to automate the extracti
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Glasena&show_icons=true&theme=github_dark&hide_title=true" alt="Alison Glasenapp's GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glasena&layout=compact&theme=github_dark&hide_title=true&langs_count=6" alt="Top Languages" /></td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Glasena&theme=github_dark" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://metrics.lecoq.io/Glasena?plugin_languages=1&plugin_languages.sections=most-used&plugin_languages.details=percentage&plugin_languages.limit=12&theme=github_dark" />
+    </td>
   </tr>
 </table>
+
+
+
+
 
 ---
 
