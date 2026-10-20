@@ -1,7 +1,3 @@
-# Hi there 👋
-
-I'm **Alison Glasenapp**, a developer from Brazil with a strong focus on **PHP**.
-
 ### 📊 GitHub Stats
 
 <table>
@@ -11,7 +7,3 @@ I'm **Alison Glasenapp**, a developer from Brazil with a strong focus on **PHP**
     </td>
   </tr>
 </table>
-
----
-
-Feel free to explore my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/alison-glasenapp-365b67217/)!
